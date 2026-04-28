@@ -1,0 +1,10 @@
+variable,description,units,frequency,source,source_url
+precip_index,Population-weighted national average precipitation,inches,monthly,NOAA NCEI nClimDiv (statewide),https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
+temp_mean_index,Population-weighted national average mean temperature,degrees F,monthly,NOAA NCEI nClimDiv (statewide),https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
+temp_max_index,Population-weighted national average maximum temperature,degrees F,monthly,NOAA NCEI nClimDiv (statewide),https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
+temp_min_index,Population-weighted national average minimum temperature,degrees F,monthly,NOAA NCEI nClimDiv (statewide),https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
+wind_index,Population-weighted national average wind speed at 10m,m/s,monthly,Open-Meteo Historical Archive (state geographic centroids),https://archive-api.open-meteo.com/
+pressure_index,Population-weighted national average surface pressure,hPa,monthly,Open-Meteo Historical Archive (state geographic centroids),https://archive-api.open-meteo.com/
+natural_gas,U.S. total natural gas consumption,billion cubic feet,monthly,U.S. Energy Information Administration (EIA) via FRED — NATURALGASD11,https://fred.stlouisfed.org/series/NATURALGASD11
+indpro,Industrial Production Index (total industry),index 2017=100,monthly,Federal Reserve Board via FRED — INDPRO,https://fred.stlouisfed.org/series/INDPRO
+tcu,Total Capacity Utilization (total industry),percent of capacity,monthly,Federal Reserve Board via FRED — TCU,https://fred.stlouisfed.org/series/TCU
